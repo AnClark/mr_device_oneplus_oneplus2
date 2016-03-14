@@ -22,7 +22,7 @@
 #include <util.h>
 #include <multirom.h>
 
-#define GATEKEEPER_PATH "/system/lib64/hw/gatekeeper.angler.so"
+#define GATEKEEPER_PATH "/vendor/lib64/hw/gatekeeper.msm8994.so"
 #define GATEKEEPER_DATA_DIR "/data/misc/gatekeeper"
 #define GATEKEEPER_COLDBOOT_PATH "/data/misc/gatekeeper/.coldboot"
 
